@@ -1,0 +1,11 @@
+.container{
+ background-image: url(http://digitalhint.net/wp-content/uploads/2015/06/resident-evil-operation-raccoon-hd-wallpaper.jpg); 
+ background-position: center;
+}
+.col-md-8{
+	color: red;
+}
+.col-md-6{
+	color: orange;
+
+}

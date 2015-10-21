@@ -1,0 +1,11 @@
+.container{
+ background-image: url(http://i.ytimg.com/vi/K_faI2IEsYU/maxresdefault.jpg); 
+ background-position: center;
+}
+.col-md-8{
+	color: red;
+}
+.col-md-6{
+	color: white;
+
+}

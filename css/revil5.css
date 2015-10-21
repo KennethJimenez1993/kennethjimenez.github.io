@@ -1,0 +1,11 @@
+.container{
+ background-image: url(http://img10.deviantart.net/5fbc/i/2013/151/5/3/resident_evil_5_wallpaper_by_kanombravo-d676i8p.jpg); 
+ background-position: center;
+}
+.col-md-8{
+	color: red;
+}
+.col-md-6{
+	color: white;
+
+}

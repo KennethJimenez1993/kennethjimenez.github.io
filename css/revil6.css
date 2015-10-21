@@ -1,0 +1,11 @@
+.container{
+ background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2013/06/17/103952/5da64fb12b8534aace71933a88b1994a.jpg); 
+ background-position: center;
+}
+.col-md-8{
+	color: red;
+}
+.col-md-6{
+	color: white;
+
+}

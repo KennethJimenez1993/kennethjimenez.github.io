@@ -1,0 +1,12 @@
+.container{
+ background-image: url(http://gimmegimmegames.com/wp-content/uploads/2013/01/800px-Resident_evil_2_wallpaper.jpg); 
+ background-position: center;
+ background-size: 100%; 
+}
+.col-md-8{
+	color: red;
+}
+.col-md-6{
+	color: white;
+
+}
